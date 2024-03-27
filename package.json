@@ -75,5 +75,8 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ronywahyuu"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-notifications": "^25.1.35"
   }
 }
