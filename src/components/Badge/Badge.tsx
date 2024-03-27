@@ -1,7 +1,8 @@
 /* eslint-disable prettier/prettier */
+
+import "./index.css"
 interface BadgeProps {
     children: React.ReactNode;
-    
 }
 
 const Badge = ({children}:BadgeProps) => {

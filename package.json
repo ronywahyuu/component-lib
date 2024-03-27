@@ -1,6 +1,6 @@
 {
   "name": "@ronywahyuu/component-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "format": "prettier --write --parser typescript '**/*.{ts,tsx}'",
